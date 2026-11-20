@@ -56,13 +56,10 @@ Because automated translations and role assignments impact real people, the syst
 
 4. BEFORE AND AFTER IMPACT
 ------------------------------------------------------------------------
-Metric                    Before (Manual Process)         After (Automated Pipeline)       Improvement
------------------------------------------------------------------------------------------------------------
-Intake Processing Time    ~18 mins per applicant          ~15 seconds per applicant        98% reduction
-First-Response Latency    3 to 5 business days            Under 1 minute                   Instant draft prep
-Data Standardization      ~60% (manual cleanup needed)    100% structured schema           Zero manual re-entry
-Language Coverage         Limited to staff hours          24/7 multilingual support        Round-the-clock intake
-
+- Intake Processing Time: Reduced from ~18 minutes per applicant to ~15 seconds (98% reduction).
+- First-Response Latency: Cut from 3 to 5 business days down to under 1 minute (instant draft prep).
+- Data Standardization: Improved from ~60% (manual cleanup required) to 100% structured schema with zero manual re-entry.
+- Language Coverage: Expanded from limited bilingual staff hours to 24/7 multilingual intake across English, Spanish, and Haitian Creole.
 
 5. PROGRAM CONTEXT AND CONTRIBUTIONS
 ------------------------------------------------------------------------
